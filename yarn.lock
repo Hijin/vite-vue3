@@ -918,6 +918,11 @@
     "app-root-path" "~3.0.0"
     "lodash.clonedeep" "~4.5.0"
 
+"commitlint-config-git-commit-emoji@^1.0.0":
+  "integrity" "sha512-AnWvAu50BZ2ikzlsECKya4nAvPdu62RC3U/8wmb8TlSiLbaLrz10jV8On/8tc2UW1C9ckuLQx3WkLhaiFcvPhg=="
+  "resolved" "https://registry.npmjs.org/commitlint-config-git-commit-emoji/-/commitlint-config-git-commit-emoji-1.0.0.tgz"
+  "version" "1.0.0"
+
 "compare-func@^2.0.0":
   "integrity" "sha512-zHig5N+tPWARooBnb0Zx1MFcdfpyJrfTJ3Y5L+IFvUm8rM74hHz66z0gw0x4tijh5CorKkKUCnW82R2vmpeCRA=="
   "resolved" "https://registry.npmjs.org/compare-func/-/compare-func-2.0.0.tgz"
