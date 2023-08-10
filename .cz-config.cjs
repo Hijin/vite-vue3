@@ -1,43 +1,43 @@
 module.exports = {
   types: [
     {
-      value: '✨ feat ',
+      value: '✨ feat: ',
       name: '✨ feat:     新功能'
     },
     {
-      value: '🐛 fix',
+      value: '🐛 fix:',
       name: '🐛 fix:      修复bug'
     },
     {
-      value: '📦️ build',
+      value: '📦️ build:',
       name: '📦️ build:    打包'
     },
     {
-      value: '⚡️ perf',
+      value: '⚡️ perf:',
       name: '⚡️ perf:     性能优化'
     }, {
-      value: '🎉 release',
+      value: '🎉 release:',
       name: '🎉 release:  发布正式版'
     }, {
-      value: '💄 style',
+      value: '💄 style:',
       name: '💄 style:    代码的样式美化'
     }, {
-      value: '♻️  refactor',
+      value: '♻️  refactor:',
       name: '♻️  refactor: 重构'
     }, {
-      value: '✏️  docs',
+      value: '✏️  docs:',
       name: '✏️  docs:     文档变更'
     }, {
-      value: '✅ test',
+      value: '✅ test:',
       name: '✅ test:     测试'
     }, {
-      value: '⏪️ revert',
+      value: '⏪️ revert:',
       name: '⏪️ revert:   回退'
     }, {
-      value: '🚀 chore',
+      value: '🚀 chore:',
       name: '🚀 chore:    构建/工程依赖/工具'
     }, {
-      value: '👷 ci',
+      value: '👷 ci:',
       name: '👷 ci:       CI related changes'
     }
   ],
