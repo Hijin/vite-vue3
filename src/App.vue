@@ -1,11 +1,5 @@
 <script setup lang="ts">
-import { ref } from "vue";
 import HelloWorld from "./components/HelloWorld.vue";
-import { aProp, bProp } from "./aTest";
-import { cProp, dProp } from "./bTest";
-
-const aValue = ref(aProp);
-console.log(aValue, cProp, dProp, bProp);
 </script>
 
 <template>
